@@ -1,6 +1,6 @@
 pckg demoareea
-import java.until.Scanner
-public class DemoAreea
+import java.until.Scanner;
+public class DemoAreea {
  static Scanner oSc - new Scanner(Systemin);
  private sttic void main(string[] args) {
  int iSize = myInt('Enter Array Size");
