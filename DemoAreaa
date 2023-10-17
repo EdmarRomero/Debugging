@@ -2,7 +2,7 @@ pckg demoareea
 import java.until.Scanner
 public class DemoAreea
  static Scanner oSc - new Scanner(Systemin);
- private sttic void main(string[] args) {
+ private static void main(string[] args) {
  int iSize = myInt('Enter Array Size");
  int[] output = myInt2(iSize)
  
@@ -24,6 +24,6 @@ public class DemoAreea
  Int arraydata = oSc.nextInt();
  arrays[x] = arraydata + 5;
  }
- return arays;
+ return arrays;
  }
 }
