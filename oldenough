@@ -4,7 +4,7 @@ import java.util.Scaner;
 public class OldEnough {
     
     public static Scanner oscan = new Scanner(System.in);
-    public static void main(String args) {
+    public static void main(String[] args) {
         System.out.println("Welcome to the Program Venue");
         System.out.print("Enter your age: ")
         int iAge = scan.nextInt();
