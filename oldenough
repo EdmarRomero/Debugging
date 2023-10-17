@@ -12,7 +12,7 @@ public class OldEnough {
             system.out.print("You can Enter");
            
         }
-        else if(iAge==18){
+        else if(iAge<=18){
             System.out.print("Sorry, you are not allowed to enter")
         }
         
