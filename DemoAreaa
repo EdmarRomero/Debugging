@@ -12,14 +12,14 @@ public class DemoAreea
  
  }
  static int myInt(String[] message) {
- System.out.prinlln(message);
+ System.out.println(message);
  int size = oSc.nextInt();
  return size;
  }
  
  static int[] myInt2(int size) {
  int[] arrays = new int[size];
- for (int x = 0; x < size: x++) {
+ for (int x = 0; x < size; x++) {
  System.out.println("Enter array data:");
  Int arraydata = oSc.nextInt();
  arrays[x] = arraydata + 5;
