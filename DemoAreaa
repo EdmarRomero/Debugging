@@ -21,9 +21,9 @@ public class DemoAreea
  int[] arrays = new int[size];
  for (int x = 0; x < size: x++) {
  System.out.println("Enter array data:");
- Int arraydata = oSc.nextInt();
+ int arraydata = oSc.nextInt(); //Error 1, Xavier Gael, it should be int arraydata = oSc.nextInt();
  arrays[x] = arraydata + 5;
  }
- return arays;
+ return arrays; //Error 2, Xavier Gael, It should be return arrays;
  }
 }
