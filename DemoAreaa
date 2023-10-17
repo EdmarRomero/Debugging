@@ -21,7 +21,7 @@ public class DemoAreea
  int[] arrays = new int[size];
  for (int x = 0; x < size: x++) {
  System.out.println("Enter array data:");
- Int arraydata = oSc.nextInt();
+ int arraydata = oSc.nextInt();
  arrays[x] = arraydata + 5;
  }
  return arays;
