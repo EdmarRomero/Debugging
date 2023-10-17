@@ -1,8 +1,8 @@
-pckg demoareea
+package demoareea;
 import java.until.Scanner
 public class DemoAreea
- static Scanner oSc - new Scanner(Systemin);
- private sttic void main(string[] args) {
+ Scanner oSc - new Scanner(Systemin);
+ private static void main(string[] args) {
  int iSize = myInt('Enter Array Size");
  int[] output = myInt2(iSize)
  
