@@ -24,6 +24,6 @@ public class DemoAreea
  int arraydata = oSc.nextInt();
  arrays[x] = arraydata + 5;
  }
- return arays;
+ return arrays;
  }
 }
