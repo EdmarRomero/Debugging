@@ -8,7 +8,7 @@ public class OldEnough {
         System.out.println("Welcome to the Program Venue");
         System.out.print("Enter your age: ")
         int iAge = scan.nextInt();
-        if (intAge<=18){
+        if (iAge<=18){ //Error 1, It should be iAge instead of intAge
             system.out.print("You can Enter");
            
         }
